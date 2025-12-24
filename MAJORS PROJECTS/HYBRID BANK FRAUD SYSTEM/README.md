@@ -16,6 +16,7 @@ This project is a **real-world fraud detection decision system** built for
 digital payment transactions.
 
 Unlike simple ML projects, this system combines:
+
 ✅ Machine Learning (Random Forest)
 
 ✅ Rule-Based Fraud Detection
@@ -25,6 +26,7 @@ Unlike simple ML projects, this system combines:
 ✅ User-Friendly Streamlit Web App
 
 The goal is NOT just to predict fraud, but to make **actionable decisions**:
+
 • Allow transaction  
 • Flag for manual review  
 • Block fraudulent transaction  
